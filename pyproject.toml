@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pinxi"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python inxi"
 authors = ["Stanislav D. Kudriavtsev <staniskudriavtsev@yandex.ru>"]
 license = "MIT"
