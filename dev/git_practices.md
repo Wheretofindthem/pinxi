@@ -11,9 +11,10 @@ Branching model:
 * `dev` - the primary trunk of development, giving rise to every branches: features, hotfixes and so forth.
 
 The `dev` trunk consists of so-called thematic branches:
+* `cli` - Command line interface;
 * `core` - Python interpreter environment;
-* `cli` - command line interface;
-* `gui` - graphic user interface.
+* `gui` - Graphic user interface;
+* `ops` - DevOps tools.
 
 **Note**: you are not discouraged to create any other branches if necessary  - the `dev` is just for this purpose. *If the model increasingly does not fit into needs of the project, change the former and don't forget to document a new one.*
 
